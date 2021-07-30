@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @alex-mic
+- 👀 I’m interested in ...
+- 🌱 I’m a fronend developer 
